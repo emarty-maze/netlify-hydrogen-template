@@ -7,6 +7,5 @@ node_modules
 .env
 .env.*
 .shopify
-
-# Local Netlify folder
-.netlify
+.netlify/blobs-serve
+.netlify/state.json
