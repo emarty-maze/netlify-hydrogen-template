@@ -14,6 +14,8 @@
   },
   "prettier": "@shopify/prettier-config",
   "dependencies": {
+    "@builder.io/react": "^8.0.9",
+    "@builder.io/sdk": "^6.0.4",
     "@builder.io/sdk-react": "^3.0.7",
     "@netlify/edge-functions": "^2.10.0",
     "@netlify/remix-edge-adapter": "^3.4.2",
